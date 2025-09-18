@@ -56,7 +56,8 @@ posicao_falsa <- function(a, b, tol = 1e-9, max_iter = 1000) {
 }
 
 # Definir intervalo adequado [a, b] onde f(a)*f(b) < 0
-# Vamos testar valores para encontrar um intervalo adequado
+# Testando alguns valores para encontrar o intervalo
+cat("Testando valores para encontrar intervalo com mudança de sinal:\n")
 cat("f(1) =", f(1), "\n")
 cat("f(2) =", f(2), "\n") 
 cat("f(2.2) =", f(2.2), "\n")

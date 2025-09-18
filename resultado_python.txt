@@ -1,0 +1,10 @@
+=== RESULTADO DO MÉTODO DA POSIÇÃO FALSA ===
+Função: f(x) = ln(x) - sin(x)
+Intervalo inicial: [2.0, 2.5]
+Raiz aproximada: 2.219107148906
+f(raiz) = -8.17e-12
+Número de iterações: 8
+Erro final: 8.17e-12
+Precisão ε = 10⁻⁹ alcançada: SIM
+
+Implementado em Python
